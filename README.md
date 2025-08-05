@@ -27,3 +27,7 @@ The hardest part was probably the firmware as I didnt know any coding language s
 
 - Top
 ![image](images/top.png)
+
+## Assembly
+![image](images/3d.png)
+![image](images/assemble.png)
